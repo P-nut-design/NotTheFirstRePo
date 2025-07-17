@@ -1,0 +1,23 @@
+{
+  "name": "server-side-day2",
+  "version": "1.0.0",
+  "main": "demo-http-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/P-nut-design/NotTheFirstRePo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/P-nut-design/NotTheFirstRePo/issues"
+  },
+  "homepage": "https://github.com/P-nut-design/NotTheFirstRePo#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
